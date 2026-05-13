@@ -1,0 +1,11 @@
+torch==2.1.2 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# Or for GPU (CUDA 11.8):
+# torch==2.1.2 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+numpy==1.26.4
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+cvzone==1.6.1
+pandas==2.1.4
+scikit-learn==1.4.2
