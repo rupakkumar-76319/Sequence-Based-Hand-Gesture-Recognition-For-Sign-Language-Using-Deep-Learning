@@ -7,10 +7,7 @@
 ---
 
 ## 👥 Authors
-
-| Name | Registration No. | Roll No. |
-|------|-----------------|----------|
-| Rupak Kumar | 20230000475 | 1181700243 |
+   $ Rupak Kumar 
 
 
 
