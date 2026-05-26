@@ -11,13 +11,8 @@
 | Name | Registration No. | Roll No. |
 |------|-----------------|----------|
 | Rupak Kumar | 20230000475 | 1181700243 |
-| Shaksham Raj | 20230000474 | 1181700262 |
-| Bikash Bage | 20230000483 | 1181700256 |
 
-**Supervisor:** Dr. Richik Kashyap  
-Department of Electronics and Communication Engineering
 
----
 
 ## 📌 About the Project
 
